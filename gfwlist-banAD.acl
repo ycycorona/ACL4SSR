@@ -1478,6 +1478,7 @@
 [proxy_list]
 
 # MyList
+(^|\.)apkpure\.com$
 (^|\.)win-plan\.com$
 (^|\.)avlabo\.com$
 (^|\.)apkmirror\.com$
