@@ -16,6 +16,8 @@
 [proxy_list]
 
 # MyList
+(^|\.)win-plan\.com$
+(^|\.)avlabo\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$

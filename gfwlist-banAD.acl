@@ -1475,7 +1475,6 @@
 [proxy_list]
 
 # MyList
-(^|\.)winudf.com
 (^|\.)win-plan\.com$
 (^|\.)avlabo\.com$
 (^|\.)apkmirror\.com$
