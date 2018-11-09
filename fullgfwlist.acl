@@ -15,9 +15,12 @@
 #**********************************************************************
 [proxy_list]
 
-# MyList
+# ycycoronaList
 (^|\.)win-plan\.com$
 (^|\.)avlabo\.com$
+(^|\.)bwh1\.net$
+
+# MyList
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
