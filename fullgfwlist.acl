@@ -16,6 +16,14 @@
 [proxy_list]
 
 # MyList
+(^|\.)crashlytics.com$
+(^|\.)facebook.com$
+(^|\.)adtiming.com$
+(^|\.)pureapk.com$
+(^|\.)facebook.com$
+(^|\.)google-analytics.com$
+(^|\.)crashlytics.com$
+(^|\.)quicinc.com$
 (^|\.)win-plan\.com$
 (^|\.)avlabo\.com$
 (^|\.)apkmirror\.com$
