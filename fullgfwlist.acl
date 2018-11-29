@@ -1,6 +1,6 @@
 #**********************************************************************
-# 11.01
-# 2018年11月1日 22:09:37
+# 11.24
+# 2018年11月24日11:17:11
 # 转载需要注明版权和来源
 # 全部规则来自GFWList 没有白名单
 #
@@ -15,7 +15,12 @@
 #**********************************************************************
 [proxy_list]
 
+
 # ycycoronaList
+#(^|\.)crashlytics.com$
+(^|\.)pureapk.com$
+#(^|\.)crashlytics.com$
+#(^|\.)quicinc.com$
 (^|\.)win-plan\.com$
 (^|\.)avlabo\.com$
 (^|\.)bwh1\.net$
@@ -5627,13 +5632,17 @@
 (^|\.)teddysun\.com$
 (^|\.)unsplash\.com$
 
-# Apple
-(^|\.)itunes.apple\.com$
+# APKPURE
+(^|\.)apkpure\.com$
 
 # BBC
 (^|\.)\w*uk-live\w*\.\w*$
 (^|\.)bbc\.co$
 (^|\.)bbc\.com$
+
+# Discord
+(^|\.)discordapp\.com$
+(^|\.)discordapp\.net$
 
 # Epicgames
 (^|\.)\w*epicgames\w*\.\w*$
